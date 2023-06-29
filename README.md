@@ -1,2 +1,2 @@
 # Syllo-Coin
-Global Crypto Currency
+Finacial and Crypto Platform
